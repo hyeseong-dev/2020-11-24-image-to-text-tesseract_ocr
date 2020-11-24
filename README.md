@@ -39,8 +39,7 @@ $ pip install pytesseract Pillow
 ```
 ---
 ###### 추가 언어 선택란(Additional Language data) 체크하고 한국어를 선택하세요.
-<img src='https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc1VhMg%2FbtqzI5nx1yk%2Fjo15sE32C2cVNI57yB0u31%2Fimg.png
-' with='300' height='300'/>
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc1VhMg%2FbtqzI5nx1yk%2Fjo15sE32C2cVNI57yB0u31%2Fimg.png)
 
 ##### 
 
